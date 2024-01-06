@@ -1,3 +1,4 @@
 # task2-first-commit
 
-Ten rok będzie lepszy
+Ten rok będzie lepszy;
+Dzień zaczyna robić się długi
